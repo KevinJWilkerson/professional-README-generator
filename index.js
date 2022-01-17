@@ -1,3 +1,7 @@
+const generatePage = () => ''
+
+
+/*
 const fs = require('fs');
 const inquirer = require('inquirer');
 
@@ -143,6 +147,9 @@ const writeFile = (data) => {
 }
 
 promptUser()
+*/
+
+
 /*   .then(projectData => {
       return generatePage(projectData);
   })
