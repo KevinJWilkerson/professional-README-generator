@@ -23,7 +23,7 @@ Anyone can use this program to reduce the amount of manual input required to cre
 
 # Example
 
-[Video Demonstration}(https://youtu.be/eM_PUHjhPy8)
+[Video Demonstration](https://youtu.be/eM_PUHjhPy8)
 
 
 # Contribution Guidelines
